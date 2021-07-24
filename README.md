@@ -6,8 +6,11 @@ The purpose of this analysis is to analyze the performance of students from diff
 Since the number of students whose grades were affected were small compared to the total number of all students acroos different schools, the district summary has not changed much. The biggest effect, was on % Passing Reading. Before adjustments, it was 86% and after fixing the dataset, it dropped to 85.7%.  
   
 2- How is the school summary affected?  
+As expected, the school summary is the same except for the Thomas High School row. Since some of the grades have been removed for this school, the scores for reading, math as well as overall scores and percentages are different by order of one tenth.  
 
 3- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
+Before replacing the grades, Thomas High School was the second high school in terms of Overall Passing Percentages. After replacing the grades, it still remained the second top school in terms of Overall Passing Percentages. Therefore, it can be concluded that replacing the grade nine scores, did not affect the relative performance of Thomas High School.  
+  
 4- How does replacing the ninth-grade scores affect the following:   
 - Math and reading scores by grade:  
 The grades have not changed since the ninth grades were replaced with NaN and no other grade has been changed.  
