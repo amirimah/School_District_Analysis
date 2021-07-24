@@ -12,7 +12,8 @@ Since the number of students whose grades were affected were small compared to t
 - Math and reading scores by grade:  
 The grades have not changed since the ninth grades were replaced with NaN and no other grade has been changed.  
 - Scores by school spending:  
-The scores by school type have not changed, since very small amount of data have been removed from the dataset.    
+The scores by school type have not changed, since very small amount of data have been removed from the dataset. 
+![Image0](https://github.com/amirimah/School_District_Analysis/blob/main/school_spending.png?raw=true)  
 - Scores by school size:  
 The scores by school size have not changed, because the size of grade 9 students from Thomas High School were very small compared to the number of total students across all schools, as shown below.  
 ![Image1](https://github.com/amirimah/School_District_Analysis/blob/main/school_size.png?raw=true)  
