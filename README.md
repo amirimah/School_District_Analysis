@@ -3,7 +3,7 @@
 The purpose of this analysis is to analyze the performance of students from different schools after removing the grade 9 math and reading scores for one of the schools, Thomas High School. 
 ## Results
 1- How is the district summary affected?  
-Since the number of students whose grades were affected were small compared to the total number of all students acroos different schools, the district summary has not changed much. The biggest effect, was on % Passing Reading. Before adjustments, it was 86% and after fixing the dataset, it dropped to 85.7%.  
+Since the number of students whose grades were affected were small compared to the total number of all students across different schools, the district summary has not changed much. The biggest effect, was on % Passing Reading. Before adjustments, it was 86% and after fixing the dataset, it dropped to 85.7%.  
   
 2- How is the school summary affected?  
 As expected, the school summary is the same except for the Thomas High School row. Since some of the grades have been removed for this school, the scores for reading, math as well as overall scores and percentages are different by order of one tenth.  
@@ -24,3 +24,8 @@ The scores by school size have not changed, because the size of grade 9 students
 The scores by school type have not changed, since very small amount of data have been removed from the dataset, as shown below.
 ![Image2](https://github.com/amirimah/School_District_Analysis/blob/main/school_type.png?raw=true)  
 ## Summary
+The four changes to the school district analysis after reading and math scores have been replaced are as follows:  
+- Before removing grade nine scores, the average math score was 83.42, however, after replacing the scores, the score dropped slightly to 83.35.   
+- Before removing grade nine scores, the average reading score was 83.85, however, after replacing the scores, the score increased slightly to 83.90.   
+- Before removing grade nine scores, the % passing math was 93.27, however, after replacing the scores, the score decreased to 93.19.  
+- Before removing grade nine scores, the % overall passing was 90.95, however, after replacing the scores, the score dropped slightly to 90.63.   
